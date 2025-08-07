@@ -31,7 +31,7 @@
 
 ## Проекты
 
-- [vue-recipe-book](https://github.com/твое_имя/vue-recipe-book) — SPA для управления рецептами  
+- [vue-recipe-book](https://github.com/mariia-toroptseva/vue-recipe-book) — SPA для управления рецептами  
 
 ---
 
